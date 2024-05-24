@@ -1,0 +1,7 @@
+/csv_files-20240521T085026Z-001
+/desktop.ini
+/SELECT company_id, name AS company_name.sql
+/SELECT COUNT(job_id) AS number_of_jobs,.sql
+/sql_course.session.sql
+/WITH company_job_count AS (.sql
+/WITH remote_job_skills AS (.sql
